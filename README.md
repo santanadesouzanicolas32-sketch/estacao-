@@ -3,7 +3,7 @@
 <p align="center">Site de restaurante e experiência gastronômica</p>
 
 <p align="center">
-  <a href="https://santanadesouzanicolas32-sketch.github.io/estacao-/"><strong>🌐 Ver projeto online</strong></a>
+  <a href="https://santanadesouzanicolas32-sketch.github.io/estacao-guarau/"><strong>🌐 Ver projeto online</strong></a>
 </p>
 
 ---
@@ -29,8 +29,8 @@
 ## 🚀 Como rodar localmente
 
 ```bash
-git clone https://github.com/santanadesouzanicolas32-sketch/estacao-.git
-cd estacao-
+git clone https://github.com/santanadesouzanicolas32-sketch/estacao-guarau.git
+cd estacao-guarau
 # abra o index.html no navegador ou use a extensão Live Server do VS Code
 ```
 
